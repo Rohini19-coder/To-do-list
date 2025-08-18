@@ -22,5 +22,5 @@ JavaScript (ES6) – App functionality and logic.
 
 | Title      | Code | Live Demo |
 |------------|------|-----------|
-| To-Do List | [Code](https://github.com/rohini19-coder/To-do-list) | [Demo](https://rohini19-coder.github.io/To-do-list/) |
+| To-Do List | [Code](https://github.com/rohini19-coder/To-do-list) | [Demo](https://rohini19-coder.github.io/To-do-list-project/) |
 
