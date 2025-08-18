@@ -30,6 +30,6 @@ This app allows users to add tasks with a specific date and delete them easily i
 ## 📸 Screenshot  
 
 ### 🏠 App Interface  
-![To-Do List Screenshot](assets/images/todo-screenshot.png)  
+![To-Do List Screenshot](preview.png)  
 
 ---
